@@ -1,4 +1,4 @@
-# SentientModel
+# SentimentModel
 
 A project to learn basic NLP using Python, guided by Amelia Archer. Originally done with Google Colab.
 
