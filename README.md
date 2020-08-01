@@ -1,6 +1,6 @@
 # SentientModel
 
-A project to learn basic NLP, guided by Amelia Archer. Originally done with Google Colab.
+A project to learn basic NLP using Python, guided by Amelia Archer. Originally done with Google Colab.
 
 Based of off the research project "Frowning Frodo, Wincing Leia" and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters". Link to the original project: https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/relationalemotions/
 
