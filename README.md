@@ -6,8 +6,7 @@ Based of off the research project "Frowning Frodo, Wincing Leia" and a Seriously
 
 Tutorial used to learn how to write a Bag of Words model: https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/
 
-Google Slides Presentation: https://docs.google.com/presentation/d/1kCeyfhmpuvHAwMTjluWu16WKXIgdl0yozyloXQh16-I/edit#slide=id.p
-
+Google Slides Presentation: https://docs.google.com/presentation/d/1kCeyfhmpuvHAwMTjluWu16WKXIgdl0yozyloXQh16-I/edit?usp=sharing
 Edited November 2021.
 
 Investigators/Contributors: Thanhthanh Nguyen, Amelia Archer
